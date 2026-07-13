@@ -119,17 +119,6 @@ https://github.com/shruti-devganiy-3024/AI-Code-Editor
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![VS%20Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shruti-devganiy-3024&show_icons=true&theme=vision-friendly-dark&count_private=true"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti-devganiy-3024&layout=compact&theme=vision-friendly-dark"/>
-</p>
-
----
 
 ## 📫 Connect With Me
 
